@@ -4,5 +4,5 @@ STEPS TO RUN:
     - pip install -r requirements.txt
 3. set rc commands in sample_commands.py
 2. Run Simulator:
-    - python main.py <number-of-drones-1-to-4>
+    - python main.py [number-of-drones-1-to-4]
 
