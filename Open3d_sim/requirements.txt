@@ -1,2 +1,0 @@
-dearpygui
-open3d
